@@ -24,8 +24,6 @@ LibQQt为应用程序提供丰富的组件、处理Qt存在的问题、适配多
 
 2018年11月，LibQQt代码变更数量已达46万，作者正式申请软件著作权，使用多链接技术v2.2继续加强工程管理能力。LibQQt现进行正式发布版本v3.1.1.0，欢迎工程师们使用。  
 
-gitee link: https://gitee.com/drabel/LibQQt  
-github link: https://github.com/AbelTian/LibQQt  
 
 [LibQQt代码变更数量截图](changelog/cloc.md)  
 
@@ -219,16 +217,4 @@ LibQQt R3支持Qt5，由于使用Multi-link 2，不支持Qt4。
 [跳转到LibQQt的百科知识页面](wiki/wiki.md "Wiki Page")  
 [阅读我的LibQQt博客进行一系列的学习](http://blog.csdn.net/Dr_Abel)   
 [LibQQt视频图说](http://v.youku.com/v_show/id_XMzUzODQ4MTczMg==.html?spm=a2hzp.8244740.0.0)  
-[看看LibQQt的文档](doc/knowledge-about-libQQt.md)  
-
-
-========================================================================   
-# 项目标识  
-
-![logo](screenshot/logo.png "Logo")    
-
-
-# 版权信息   
-
-Copyright © 2017 Tianduanrui. All rights reserved.    
-Assigned by Dezhou.    
+[看看LibQQt的文档](doc/knowledge-about-libQQt.md)     
